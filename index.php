@@ -5,7 +5,7 @@
 ?>
 <html>
 <head>
-<title>Home</title>
+<title>Home Alone Again</title>
 <style type = "text/css">
 .header
 {
